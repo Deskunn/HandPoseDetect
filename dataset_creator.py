@@ -2,7 +2,7 @@ import cv2
 import os
 import numpy as np
 import tensorflow as tf
-from test import crop_img
+from image_croper import crop_img
 
 
 def mkdir(path):
